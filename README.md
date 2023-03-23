@@ -1,6 +1,12 @@
 ## Course Outline For HTML
 
-**1. Introduction to HTML** - What is HTML? - How does HTML work? - HTML history and evolution - Importance of HTML in web development - Basic structure of an HTML document
+**1. Introduction to HTML** 
+
+- What is HTML? 
+- How does HTML work? 
+- HTML history and evolution 
+- Importance of HTML in web development 
+- Basic structure of an HTML document
 
 **2. Basic structure of an HTML document**
 
